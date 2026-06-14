@@ -65,3 +65,9 @@ Após submissão:
 ## 📸 Screenshot
 
 Ao final da execução é gerada uma imagem:
+
+## 🚀 Como executar
+
+```bash
+pip install -r requirements.txt
+python desafio2.py
