@@ -39,4 +39,4 @@ COPY . .
 
 
 # rodar em modo headless automaticamente
-CMD ["python", "desafio2.py"]
+CMD ["python", "desafio3.py"]
