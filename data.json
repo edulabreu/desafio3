@@ -1,0 +1,14 @@
+{
+  "nome": "Eduardo",
+  "sobrenome": "Gonzaga",
+  "email": "eduardo@gmail.com",
+  "genero": "Male",
+  "telefone": "3199999999",
+  "data_nascimento": "14 Jan 1986",
+  "subjects": ["Maths", "Physics"],
+  "hobbies": ["Sports", "Music"],
+  "arquivo": "imagem.png",
+  "address": "Rua Exemplo 123",
+  "state": "NCR",
+  "city": "Delhi"
+}
