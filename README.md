@@ -3,7 +3,8 @@
 ```markdown
 # 🧪 Desafio 3 — Automação de Formulário Completo (DemoQA)
 
-Este projeto automatiza o preenchimento completo de um formulário web complexo utilizando Selenium WebDriver.
+Este projeto automatiza o preenchimento completo de um formulário web complexo utilizando Selenium
+WebDriver.
 
 ---
 
